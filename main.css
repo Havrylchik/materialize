@@ -1,0 +1,15 @@
+body{
+    width: 100vw;
+}
+nav{
+    width: 100vw;
+}
+
+
+
+nav a{
+    margin-left: 15%;
+}
+.container a{
+    margin-top: 30px;
+}
